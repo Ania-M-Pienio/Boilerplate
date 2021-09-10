@@ -1,0 +1,32 @@
+
+// brand
+$primary: #3e26aa !default;
+$secondary: #df17a6 !default;
+$accent: #f1ab29 !default;
+$light-accent: #d6f6ff !default;
+$dark-accent: #107880 !default;
+$dark: #282e4b;
+$light: #fde8e3;
+$tint: #f0f0e9 !default;
+
+
+// greyscale
+$white: #fff !default;
+$grey: #737373 !default;
+$black: #222 !default;
+
+
+$theme_colors: (
+  // brand
+  "primary": $primary,
+  "secondary": $secondary,
+  "accent": $accent,
+  "light-accent": $light-accent,
+  "dark-accent": $dark-accent,
+  "dark" : $dark,
+  "light": $light,
+  "tint": $tint,
+  // greyscales
+  "white": $white,
+  "black": $black,
+)

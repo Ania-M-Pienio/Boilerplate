@@ -1,0 +1,21 @@
+
+// SETTINGS
+@import './settings/colors';
+@import './settings/icons';
+@import './settings/typography.scss';
+@import './settings/theme';
+
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts'; 
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import "~bootstrap/scss/bootstrap";
+
+
+// COMPONENTS
+@import './components/hero';
+@import './components/navigation';
+
+
+// PAGES
+@import './pages/home';
